@@ -1,13 +1,13 @@
 let data=[
-    {id:1,name:'sowmi',courses:['math','bio','chemistry'],cgpa:3.6},
-    {id:2,name:'sravya',courses:['math','bio','Physics'],cgpa:3.6},
-    {id:3,name:'Nikki',courses:['chemistry','bio','geometry'],cgpa:3.6},
-    {id:4,name:'noor',courses:['social','bio','chemistry'],cgpa:3.6},
+    {id:1,name:'abc',courses:['math','bio','chemistry'],cgpa:3.6},
+    {id:2,name:'def',courses:['math','bio','Physics'],cgpa:3.6},
+    {id:3,name:'ghi',courses:['chemistry','bio','geometry'],cgpa:3.6},
+    {id:4,name:'jkl',courses:['social','bio','chemistry'],cgpa:3.6},
 
 ]
 
 //length,push,findIndex,forEach,map,filter,flatmap
-let st={id:5,name:'Pavani',courses:[],cgpa:0};
+let st={id:5,name:'mno',courses:[],cgpa:0};
 console.log('no of students',data.length);
 data.push(st)
 
